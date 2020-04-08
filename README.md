@@ -2,7 +2,7 @@
 
 Example for 2019-04-08 session
 
-How do you resolve conflicts?
+change this one too
 
 Make some changes here! Or in the R script. Then...
 
